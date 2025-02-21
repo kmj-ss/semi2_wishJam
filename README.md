@@ -34,12 +34,9 @@
 ### 사용자
 #### 로그인, 회원가입
 - 로그인, 인증번호 받기를 통한 아이디/비밀번호 찾기
-
-  ![스크린샷 2025-02-20 212159](https://github.com/user-attachments/assets/533c5d38-7dbf-4519-85f2-d92fe7660c71)
-
 - 회원가입
 
-  ![스크린샷 2025-02-20 213645](https://github.com/user-attachments/assets/ff5fea47-fe0e-4412-b43c-9e52c4e6599f)
+![스크린샷 2025-02-20 212159](https://github.com/user-attachments/assets/0429f32c-c0f3-4807-956d-f790342129d2)
 
 #### 홈
 - 상품 검색, 카테고리 보기, 배너, 인기상품/최신순 상품 보기
@@ -48,12 +45,9 @@
   
 #### 마이페이지
 - 내 소개글 보기
-
-![스크린샷 2025-02-21 170732](https://github.com/user-attachments/assets/fa3cab9b-e49b-491b-abe7-ab10ad918461)
-
 - 판매 내역, 구매 내역 확인
 
-![스크린샷 2025-02-21 170739](https://github.com/user-attachments/assets/ae01d285-ccaf-4933-8586-fcbf159acf16)
+![스크린샷 2025-02-21 170732](https://github.com/user-attachments/assets/09020ffa-3405-4477-82e1-b67b367615ed)
 
 - 내 정보 수정하기
 
@@ -71,12 +65,9 @@
 
 #### 리뷰
 - 총 별점 평균, 리뷰 수, 리뷰 내용 보기
-
-  ![스크린샷 2025-02-14 131406](https://github.com/user-attachments/assets/a7cac783-6895-4544-b263-06d4dac19f76)
-  
 - 별점 선택, 리뷰 작성, 이미지 업로드
 
-  ![스크린샷 2025-02-18 210741](https://github.com/user-attachments/assets/6c7fd5f0-7a74-4672-a196-13f9190ea9db)
+![스크린샷 2025-02-14 131406](https://github.com/user-attachments/assets/73e83e9c-8d3d-4f89-8331-b1c9fdab87f2)
 
 #### 판매글 작성
 - 대표 이미지 등록
@@ -113,29 +104,22 @@
   
 #### 등급 관리
 - 등급 확인, 삭제
-
-  ![스크린샷 2025-02-20 220954](https://github.com/user-attachments/assets/0cb27fe6-c088-45f4-a558-31ee133b0afb)
 - 등급 이름, 이미지, 포인트 작성, 추가
-   ![스크린샷 2025-02-20 221247](https://github.com/user-attachments/assets/26e68ab0-b76b-4124-8f2d-450a050961ff)
+
+![스크린샷 2025-02-20 220954](https://github.com/user-attachments/assets/22d7fc8e-8028-44d5-ae1c-d88c7640c398)
 
 #### 카테고리 관리
 - 등록된 카테고리 확인
-  
-  ![스크린샷 2025-02-20 221650](https://github.com/user-attachments/assets/390b4342-4ab0-4d3d-9510-1b9740872eaa)
 - 새로운 카테고리 소분류 추가
-
-![스크린샷 2025-02-20 222246](https://github.com/user-attachments/assets/f4c664d2-f94c-46e8-beab-bccd258999c8)
 - 카테고리 수정
   
-![스크린샷 2025-02-20 222605](https://github.com/user-attachments/assets/2a9fc99f-f5de-4acf-b13a-0b7d2e7f6323)
+![스크린샷 2025-02-20 221650](https://github.com/user-attachments/assets/901d062c-8179-429b-9fca-a35458585238)
 
 #### 배너 관리
 - 등록된 뱌노 확인, 삭제
-
-  ![스크린샷 2025-02-20 220632](https://github.com/user-attachments/assets/7a66397b-c119-4579-89a8-17dde905931f)
 - 배너 이름, 이미지, 게시 기간 등록, 배너 추가
 
-  ![스크린샷 2025-02-20 220721](https://github.com/user-attachments/assets/c3a5e50f-2ebc-459c-9c56-72c5ce83157d)
+![스크린샷 2025-02-20 220632](https://github.com/user-attachments/assets/2c6704ae-cd56-4216-9560-bac5a37a23af)
 
 #### 신고글 관리
   - 신고 내용 확인, 신고된 판매 글 게시 여부 처리
