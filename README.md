@@ -100,8 +100,8 @@
 #### 회원 관리
 - 등록 회원 목록 확인
 
-  ![스크린샷 2025-02-20 220055](https://github.com/user-attachments/assets/b0879ee5-3faa-448a-8f48-f1153fc22cc9)
-  
+ ![스크린샷 2025-02-21 181329](https://github.com/user-attachments/assets/ef0ebc43-d4da-41cc-98d9-f2174b4afe2b)
+
 #### 등급 관리
 - 등급 확인, 삭제
 - 등급 이름, 이미지, 포인트 작성, 추가
